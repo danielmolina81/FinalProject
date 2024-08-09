@@ -1,238 +1,238 @@
-name,slug,value,date_of_information,ranking,region
-"China","china","1,413,142,846","2023",1,"East and Southeast Asia"
-"India","india","1,399,179,585","2023",2,"South Asia"
-"United States","united-states","339,665,118","2023",3,"North America"
-"Indonesia","indonesia","279,476,346","2023",4,"East and Southeast Asia"
-"Pakistan","pakistan","247,653,551","2023",5,"South Asia"
-"Nigeria","nigeria","230,842,743","2023",6,"Africa"
-"Brazil","brazil","218,689,757","2023",7,"South America"
-"Bangladesh","bangladesh","167,184,465","2023",8,"South Asia"
-"Russia","russia","141,698,923","2023",9,"Central Asia"
-"Mexico","mexico","129,875,529","2023",10,"North America"
-"Japan","japan","123,719,238","2023",11,"East and Southeast Asia"
-"Ethiopia","ethiopia","116,462,712","2023",12,"Africa"
-"Philippines","philippines","116,434,200","2023",13,"East and Southeast Asia"
-"Congo, Democratic Republic of the","congo-democratic-republic-of-the","111,859,928","2023",14,"Africa"
-"Egypt","egypt","109,546,720","2023",15,"Africa"
-"Vietnam","vietnam","104,799,174","2023",16,"East and Southeast Asia"
-"Iran","iran","87,590,873","2023",17,"Middle East"
-"Germany","germany","84,220,184","2023",18,"Europe"
-"Turkey (Turkiye)","turkey-turkiye","83,593,483","2023",19,"Middle East"
-"Thailand","thailand","69,794,997","2023",20,"East and Southeast Asia"
-"France","france","68,521,974","2023",21,"Europe"
-"United Kingdom","united-kingdom","68,138,484","2023",22,"Europe"
-"Tanzania","tanzania","65,642,682","2023",23,"Africa"
-"Italy","italy","61,021,855","2023",24,"Europe"
-"South Africa","south-africa","58,048,332","2023",25,"Africa"
-"Burma","burma","57,970,293","2023",26,"East and Southeast Asia"
-"Kenya","kenya","57,052,004","2023",27,"Africa"
-"Korea, South","korea-south","51,966,948","2023",28,"East and Southeast Asia"
-"Colombia","colombia","49,336,454","2023",29,"South America"
-"Sudan","sudan","49,197,555","2023",30,"Africa"
-"Uganda","uganda","47,729,952","2023",31,"Africa"
-"Spain","spain","47,222,613","2023",32,"Europe"
-"Argentina","argentina","46,621,847","2023",33,"South America"
-"Algeria","algeria","44,758,398","2023",34,"Africa"
-"Ukraine","ukraine","43,306,477","2023",35,"Europe"
-"Iraq","iraq","41,266,109","2023",36,"Middle East"
-"Afghanistan","afghanistan","39,232,003","2023",37,"South Asia"
-"Canada","canada","38,516,736","2023",38,"North America"
-"Poland","poland","37,991,766","2023",39,"Europe"
-"Morocco","morocco","37,067,420","2023",40,"Africa"
-"Angola","angola","35,981,281","2023",41,"Africa"
-"Saudi Arabia","saudi-arabia","35,939,806","2023",42,"Middle East"
-"Malaysia","malaysia","34,219,975","2023",43,"East and Southeast Asia"
-"Ghana","ghana","33,846,114","2023",44,"Africa"
-"Mozambique","mozambique","32,513,805","2023",45,"Africa"
-"Peru","peru","32,440,172","2023",46,"South America"
-"Yemen","yemen","31,565,602","2023",47,"Middle East"
-"Uzbekistan","uzbekistan","31,360,836","2023",48,"Central Asia"
-"Nepal","nepal","30,899,443","2023",49,"South Asia"
-"Venezuela","venezuela","30,518,260","2023",50,"South America"
-"Cameroon","cameroon","30,135,732","2023",51,"Africa"
-"Cote d'Ivoire","cote-divoire","29,344,847","2023",52,"Africa"
-"Madagascar","madagascar","28,812,195","2023",53,"Africa"
-"Australia","australia","26,461,166","2023",54,"Australia and Oceania"
-"Korea, North","korea-north","26,072,217","2023",55,"East and Southeast Asia"
-"Niger","niger","25,396,840","2023",56,"Africa"
-"Taiwan","taiwan","23,588,613","2023",57,"East and Southeast Asia"
-"Sri Lanka","sri-lanka","23,326,272","2023",58,"South Asia"
-"Syria","syria","22,933,531","2023",59,"Middle East"
-"Burkina Faso","burkina-faso","22,489,126","2023",60,"Africa"
-"Mali","mali","21,359,722","2023",61,"Africa"
-"Malawi","malawi","21,279,597","2023",62,"Africa"
-"Zambia","zambia","20,216,029","2023",63,"Africa"
-"Kazakhstan","kazakhstan","19,543,464","2023",64,"Central Asia"
-"Chile","chile","18,549,457","2023",65,"South America"
-"Chad","chad","18,523,165","2023",66,"Africa"
-"Senegal","senegal","18,384,660","2023",67,"Africa"
-"Romania","romania","18,326,327","2023",68,"Europe"
-"Guatemala","guatemala","17,980,803","2023",69,"Central America and the Caribbean"
-"Ecuador","ecuador","17,483,326","2023",70,"South America"
-"Netherlands","netherlands","17,463,930","2023",71,"Europe"
-"Cambodia","cambodia","16,891,245","2023",72,"East and Southeast Asia"
-"Zimbabwe","zimbabwe","15,418,674","2023",73,"Africa"
-"Benin","benin","14,219,908","2023",74,"Africa"
-"Guinea","guinea","13,607,249","2023",75,"Africa"
-"Rwanda","rwanda","13,400,541","2023",76,"Africa"
-"Burundi","burundi","13,162,952","2023",77,"Africa"
-"Somalia","somalia","12,693,796","2023",78,"Africa"
-"Bolivia","bolivia","12,186,079","2023",79,"South America"
-"South Sudan","south-sudan","12,118,379","2023",80,"Africa"
-"Tunisia","tunisia","11,976,182","2023",81,"Africa"
-"Belgium","belgium","11,913,633","2023",82,"Europe"
-"Haiti","haiti","11,470,261","2023",83,"Central America and the Caribbean"
-"Jordan","jordan","11,086,716","2023",84,"Middle East"
-"Cuba","cuba","10,985,974","2023",85,"Central America and the Caribbean"
-"Dominican Republic","dominican-republic","10,790,744","2023",86,"Central America and the Caribbean"
-"Czechia","czechia","10,706,242","2023",87,"Europe"
-"Sweden","sweden","10,536,338","2023",88,"Europe"
-"Greece","greece","10,497,595","2023",89,"Europe"
-"Azerbaijan","azerbaijan","10,420,515","2023",90,"Middle East"
-"Portugal","portugal","10,223,150","2023",91,"Europe"
-"United Arab Emirates","united-arab-emirates","9,973,449","2023",92,"Middle East"
-"Papua New Guinea","papua-new-guinea","9,819,350","2023",93,"East and Southeast Asia"
-"Hungary","hungary","9,670,009","2023",94,"Europe"
-"Honduras","honduras","9,571,352","2023",95,"Central America and the Caribbean"
-"Belarus","belarus","9,383,853","2023",96,"Europe"
-"Tajikistan","tajikistan","9,245,937","2023",97,"Central Asia"
-"Israel","israel","9,043,387","2023",98,"Middle East"
-"Austria","austria","8,940,860","2023",99,"Europe"
-"Sierra Leone","sierra-leone","8,908,040","2023",100,"Africa"
-"Togo","togo","8,703,961","2023",101,"Africa"
-"Switzerland","switzerland","8,563,760","2023",102,"Europe"
-"Laos","laos","7,852,377","2023",103,"East and Southeast Asia"
-"Paraguay","paraguay","7,439,863","2023",104,"South America"
-"Hong Kong","hong-kong","7,288,167","2023",105,"East and Southeast Asia"
-"Libya","libya","7,252,573","2023",106,"Africa"
-"Bulgaria","bulgaria","6,827,736","2023",107,"Europe"
-"Serbia","serbia","6,693,375","2023",108,"Europe"
-"El Salvador","el-salvador","6,602,370","2023",109,"Central America and the Caribbean"
-"Nicaragua","nicaragua","6,359,689","2023",110,"Central America and the Caribbean"
-"Eritrea","eritrea","6,274,796","2023",111,"Africa"
-"Kyrgyzstan","kyrgyzstan","6,122,781","2023",112,"Central Asia"
-"Singapore","singapore","5,975,383","2023",113,"East and Southeast Asia"
-"Denmark","denmark","5,946,984","2023",114,"Europe"
-"Turkmenistan","turkmenistan","5,690,818","2023",115,"Central Asia"
-"Congo, Republic of the","congo-republic-of-the","5,677,493","2023",116,"Africa"
-"Finland","finland","5,614,571","2023",117,"Europe"
-"Norway","norway","5,597,924","2023",118,"Europe"
-"Central African Republic","central-african-republic","5,552,228","2023",119,"Africa"
-"Liberia","liberia","5,506,280","2023",120,"Africa"
-"Slovakia","slovakia","5,425,319","2023",121,"Europe"
-"Lebanon","lebanon","5,331,203","2023",122,"Middle East"
-"Ireland","ireland","5,323,991","2023",123,"Europe"
-"Costa Rica","costa-rica","5,256,612","2023",124,"Central America and the Caribbean"
-"New Zealand","new-zealand","5,109,702","2023",125,"Australia and Oceania"
-"Georgia","georgia","4,936,390","2023",126,"Middle East"
-"Panama","panama","4,404,108","2023",127,"Central America and the Caribbean"
-"Mauritania","mauritania","4,244,878","2023",128,"Africa"
-"Croatia","croatia","4,169,239","2023",129,"Europe"
-"Oman","oman","3,833,465","2023",130,"Middle East"
-"Bosnia and Herzegovina","bosnia-and-herzegovina","3,807,764","2023",131,"Europe"
-"Uruguay","uruguay","3,416,264","2023",132,"South America"
-"Mongolia","mongolia","3,255,468","2023",133,"East and Southeast Asia"
-"Moldova","moldova","3,250,532","2023",134,"Europe"
-"West Bank","west-bank","3,176,549","2023",135,"Middle East"
-"Kuwait","kuwait","3,103,580","2023",136,"Middle East"
-"Albania","albania","3,101,621","2023",137,"Europe"
-"Puerto Rico","puerto-rico","3,057,311","2023",138,"Central America and the Caribbean"
-"Armenia","armenia","2,989,091","2023",139,"Middle East"
-"Jamaica","jamaica","2,820,982","2023",140,"Central America and the Caribbean"
-"Namibia","namibia","2,777,232","2023",141,"Africa"
-"Lithuania","lithuania","2,655,755","2023",142,"Europe"
-"Qatar","qatar","2,532,104","2023",143,"Middle East"
-"Gambia, The","gambia-the","2,468,569","2023",144,"Africa"
-"Botswana","botswana","2,417,596","2023",145,"Africa"
-"Gabon","gabon","2,397,368","2023",146,"Africa"
-"Lesotho","lesotho","2,210,646","2023",147,"Africa"
-"North Macedonia","north-macedonia","2,133,410","2023",148,"Europe"
-"Slovenia","slovenia","2,099,790","2023",149,"Europe"
-"Gaza Strip","gaza-strip","2,098,389","2023",150,"Middle East"
-"Guinea-Bissau","guinea-bissau","2,078,820","2023",151,"Africa"
-"Kosovo","kosovo","1,964,327","2023",152,"Europe"
-"Latvia","latvia","1,821,750","2023",153,"Europe"
-"Equatorial Guinea","equatorial-guinea","1,737,695","2023",154,"Africa"
-"Bahrain","bahrain","1,553,886","2023",155,"Middle East"
-"Timor-Leste","timor-leste","1,476,042","2023",156,"East and Southeast Asia"
-"Trinidad and Tobago","trinidad-and-tobago","1,407,460","2023",157,"Central America and the Caribbean"
-"Mauritius","mauritius","1,309,448","2023",158,"Africa"
-"Cyprus","cyprus","1,308,120","2023",159,"Europe"
-"Estonia","estonia","1,202,762","2023",160,"Europe"
-"Eswatini","eswatini","1,130,043","2023",161,"Africa"
-"Djibouti","djibouti","976,143","2023",162,"Africa"
-"Fiji","fiji","947,760","2023",163,"Australia and Oceania"
-"Comoros","comoros","888,378","2023",164,"Africa"
-"Bhutan","bhutan","876,181","2023",165,"South Asia"
-"Guyana","guyana","791,739","2023",166,"South America"
-"Solomon Islands","solomon-islands","714,766","2023",167,"Australia and Oceania"
-"Luxembourg","luxembourg","660,924","2023",168,"Europe"
-"Macau","macau","639,971","2023",169,"East and Southeast Asia"
-"Suriname","suriname","639,759","2023",170,"South America"
-"Cabo Verde","cabo-verde","603,901","2023",171,"Africa"
-"Montenegro","montenegro","602,445","2023",172,"Europe"
-"Brunei","brunei","484,991","2023",173,"East and Southeast Asia"
-"Malta","malta","467,138","2023",174,"Europe"
-"Belize","belize","419,137","2023",175,"Central America and the Caribbean"
-"Maldives","maldives","389,568","2023",176,"South Asia"
-"Iceland","iceland","360,872","2023",177,"Europe"
-"Bahamas, The","bahamas-the","358,508","2023",178,"Central America and the Caribbean"
-"Vanuatu","vanuatu","313,046","2023",179,"Australia and Oceania"
-"Barbados","barbados","303,431","2023",180,"Central America and the Caribbean"
-"French Polynesia","french-polynesia","301,488","2023",181,"Australia and Oceania"
-"New Caledonia","new-caledonia","300,682","2023",182,"Australia and Oceania"
-"Sao Tome and Principe","sao-tome-and-principe","220,372","2023",183,"Africa"
-"Samoa","samoa","207,501","2023",184,"Australia and Oceania"
-"Guam","guam","169,330","2023",185,"Australia and Oceania"
-"Saint Lucia","saint-lucia","167,591","2023",186,"Central America and the Caribbean"
-"Curacao","curacao","152,849","2023",187,"Central America and the Caribbean"
-"Aruba","aruba","123,702","2023",188,"Central America and the Caribbean"
-"Kiribati","kiribati","115,372","2023",189,"Australia and Oceania"
-"Grenada","grenada","114,299","2023",190,"Central America and the Caribbean"
-"Tonga","tonga","105,221","2023",191,"Australia and Oceania"
-"Virgin Islands","virgin-islands","104,917","2023",192,"Central America and the Caribbean"
-"Jersey","jersey","102,785","2023",193,"Europe"
-"Antigua and Barbuda","antigua-and-barbuda","101,489","2023",194,"Central America and the Caribbean"
-"Saint Vincent and the Grenadines","saint-vincent-and-the-grenadines","100,804","2023",195,"Central America and the Caribbean"
-"Micronesia, Federated States of","micronesia-federated-states-of","100,319","2023",196,"Australia and Oceania"
-"Seychelles","seychelles","97,617","2023",197,"Africa"
-"Isle of Man","isle-of-man","91,840","2023",198,"Europe"
-"Andorra","andorra","85,468","2023",199,"Europe"
-"Marshall Islands","marshall-islands","80,966","2023",200,"Australia and Oceania"
-"Dominica","dominica","74,656","2023",201,"Central America and the Caribbean"
-"Bermuda","bermuda","72,576","2023",202,"North America"
-"Guernsey","guernsey","67,642","2023",203,"Europe"
-"Cayman Islands","cayman-islands","65,483","2023",204,"Central America and the Caribbean"
-"Turks and Caicos Islands","turks-and-caicos-islands","59,367","2023",205,"Central America and the Caribbean"
-"Greenland","greenland","57,777","2023",206,"North America"
-"Saint Kitts and Nevis","saint-kitts-and-nevis","54,817","2023",207,"Central America and the Caribbean"
-"Faroe Islands","faroe-islands","52,600","2023",208,"Europe"
-"Northern Mariana Islands","northern-mariana-islands","51,295","2023",209,"Australia and Oceania"
-"Sint Maarten","sint-maarten","45,677","2023",210,"Central America and the Caribbean"
-"American Samoa","american-samoa","44,620","2023",211,"Australia and Oceania"
-"Liechtenstein","liechtenstein","39,993","2023",212,"Europe"
-"British Virgin Islands","british-virgin-islands","39,369","2023",213,"Central America and the Caribbean"
-"San Marino","san-marino","34,892","2023",214,"Europe"
-"Saint Martin","saint-martin","32,897","2023",215,"Central America and the Caribbean"
-"Monaco","monaco","31,597","2023",216,"Europe"
-"Gibraltar","gibraltar","29,629","2023",217,"Europe"
-"Palau","palau","21,779","2023",218,"Australia and Oceania"
-"Anguilla","anguilla","19,079","2023",219,"Central America and the Caribbean"
-"Wallis and Futuna","wallis-and-futuna","15,929","2023",220,"Australia and Oceania"
-"Tuvalu","tuvalu","11,639","2023",221,"Australia and Oceania"
-"Nauru","nauru","9,852","2023",222,"Australia and Oceania"
-"Cook Islands","cook-islands","7,939","2023",223,"Australia and Oceania"
-"Saint Helena, Ascension, and Tristan da Cunha","saint-helena-ascension-and-tristan-da-cunha","7,935","2023",224,"Africa"
-"Saint Barthelemy","saint-barthelemy","7,093","2023",225,"Central America and the Caribbean"
-"Montserrat","montserrat","5,440","2023",226,"Central America and the Caribbean"
-"Saint Pierre and Miquelon","saint-pierre-and-miquelon","5,195","2023",227,"North America"
-"Falkland Islands (Islas Malvinas)","falkland-islands-islas-malvinas","3,662","2021",228,"South America"
-"Svalbard","svalbard","2,926","January 2021",229,"Europe"
-"Christmas Island","christmas-island","2,205","2016",230,"Australia and Oceania"
-"Niue","niue","2,000","July 2022",231,"Australia and Oceania"
-"Norfolk Island","norfolk-island","1,748","2016",232,"Australia and Oceania"
-"Tokelau","tokelau","1,647","2019",233,"Australia and Oceania"
-"Paracel Islands","paracel-islands","1,440","July 2014",234,"East and Southeast Asia"
-"Holy See (Vatican City)","holy-see-vatican-city","1,000","2022",235,"Europe"
-"Cocos (Keeling) Islands","cocos-keeling-islands","596","July 2014",236,"Australia and Oceania"
-"Pitcairn Islands","pitcairn-islands","50","2021",237,"Australia and Oceania"
+﻿name,slug,value,date_of_information,ranking,region,area,density
+China,china,"1,413,142,846",2023,1,East and Southeast Asia,9596960,147.25
+India,india,"1,399,179,585",2023,2,South Asia,3287263,425.64
+United States,united-states,"339,665,118",2023,3,North America,9833517,34.54
+Indonesia,indonesia,"279,476,346",2023,4,East and Southeast Asia,1904569,146.74
+Pakistan,pakistan,"247,653,551",2023,5,South Asia,796095,311.09
+Nigeria,nigeria,"230,842,743",2023,6,Africa,923768,249.89
+Brazil,brazil,"218,689,757",2023,7,South America,8515770,25.68
+Bangladesh,bangladesh,"167,184,465",2023,8,South Asia,148460,1126.12
+Russia,russia,"141,698,923",2023,9,Central Asia,17098242,8.29
+Mexico,mexico,"129,875,529",2023,10,North America,1964375,66.12
+Japan,japan,"123,719,238",2023,11,East and Southeast Asia,377915,327.37
+Ethiopia,ethiopia,"116,462,712",2023,12,Africa,1104300,105.46
+Philippines,philippines,"116,434,200",2023,13,East and Southeast Asia,300000,388.11
+"Congo, Democratic Republic of the",congo-democratic-republic-of-the,"111,859,928",2023,14,Africa,2344858,47.7
+Egypt,egypt,"109,546,720",2023,15,Africa,1001450,109.39
+Vietnam,vietnam,"104,799,174",2023,16,East and Southeast Asia,331210,316.41
+Iran,iran,"87,590,873",2023,17,Middle East,1648195,53.14
+Germany,germany,"84,220,184",2023,18,Europe,357022,235.9
+Turkey (Turkiye),turkey-turkiye,"83,593,483",2023,19,Middle East,783562,106.68
+Thailand,thailand,"69,794,997",2023,20,East and Southeast Asia,513120,136.02
+France,france,"68,521,974",2023,21,Europe,643801,106.43
+United Kingdom,united-kingdom,"68,138,484",2023,22,Europe,243610,279.7
+Tanzania,tanzania,"65,642,682",2023,23,Africa,947300,69.29
+Italy,italy,"61,021,855",2023,24,Europe,301340,202.5
+South Africa,south-africa,"58,048,332",2023,25,Africa,1219090,47.62
+Burma,burma,"57,970,293",2023,26,East and Southeast Asia,676578,85.68
+Kenya,kenya,"57,052,004",2023,27,Africa,580367,98.3
+"Korea, South",korea-south,"51,966,948",2023,28,East and Southeast Asia,99720,521.13
+Colombia,colombia,"49,336,454",2023,29,South America,1138910,43.32
+Sudan,sudan,"49,197,555",2023,30,Africa,1861484,26.43
+Uganda,uganda,"47,729,952",2023,31,Africa,241038,198.02
+Spain,spain,"47,222,613",2023,32,Europe,505370,93.44
+Argentina,argentina,"46,621,847",2023,33,South America,2780400,16.77
+Algeria,algeria,"44,758,398",2023,34,Africa,2381740,18.79
+Ukraine,ukraine,"43,306,477",2023,35,Europe,603550,71.75
+Iraq,iraq,"41,266,109",2023,36,Middle East,438317,94.15
+Afghanistan,afghanistan,"39,232,003",2023,37,South Asia,652230,60.15
+Canada,canada,"38,516,736",2023,38,North America,9984670,3.86
+Poland,poland,"37,991,766",2023,39,Europe,312685,121.5
+Morocco,morocco,"37,067,420",2023,40,Africa,716550,51.73
+Angola,angola,"35,981,281",2023,41,Africa,1246700,28.86
+Saudi Arabia,saudi-arabia,"35,939,806",2023,42,Middle East,2149690,16.72
+Malaysia,malaysia,"34,219,975",2023,43,East and Southeast Asia,329847,103.74
+Ghana,ghana,"33,846,114",2023,44,Africa,238533,141.89
+Mozambique,mozambique,"32,513,805",2023,45,Africa,799380,40.67
+Peru,peru,"32,440,172",2023,46,South America,1285216,25.24
+Yemen,yemen,"31,565,602",2023,47,Middle East,527968,59.79
+Uzbekistan,uzbekistan,"31,360,836",2023,48,Central Asia,447400,70.1
+Nepal,nepal,"30,899,443",2023,49,South Asia,147181,209.94
+Venezuela,venezuela,"30,518,260",2023,50,South America,912050,33.46
+Cameroon,cameroon,"30,135,732",2023,51,Africa,475440,63.38
+Cote d'Ivoire,cote-divoire,"29,344,847",2023,52,Africa,322463,91
+Madagascar,madagascar,"28,812,195",2023,53,Africa,587041,49.08
+Australia,australia,"26,461,166",2023,54,Australia and Oceania,7741220,3.42
+"Korea, North",korea-north,"26,072,217",2023,55,East and Southeast Asia,120538,216.3
+Niger,niger,"25,396,840",2023,56,Africa,1267000,20.04
+Taiwan,taiwan,"23,588,613",2023,57,East and Southeast Asia,35980,655.6
+Sri Lanka,sri-lanka,"23,326,272",2023,58,South Asia,65610,355.53
+Syria,syria,"22,933,531",2023,59,Middle East,187437,122.35
+Burkina Faso,burkina-faso,"22,489,126",2023,60,Africa,274200,82.02
+Mali,mali,"21,359,722",2023,61,Africa,1240192,17.22
+Malawi,malawi,"21,279,597",2023,62,Africa,118484,179.6
+Zambia,zambia,"20,216,029",2023,63,Africa,752618,26.86
+Kazakhstan,kazakhstan,"19,543,464",2023,64,Central Asia,2724900,7.17
+Chile,chile,"18,549,457",2023,65,South America,756102,24.53
+Chad,chad,"18,523,165",2023,66,Africa,1284000,14.43
+Senegal,senegal,"18,384,660",2023,67,Africa,196722,93.46
+Romania,romania,"18,326,327",2023,68,Europe,238391,76.88
+Guatemala,guatemala,"17,980,803",2023,69,Central America and the Caribbean,108889,165.13
+Ecuador,ecuador,"17,483,326",2023,70,South America,283561,61.66
+Netherlands,netherlands,"17,463,930",2023,71,Europe,41543,420.38
+Cambodia,cambodia,"16,891,245",2023,72,East and Southeast Asia,181035,93.3
+Zimbabwe,zimbabwe,"15,418,674",2023,73,Africa,390757,39.46
+Benin,benin,"14,219,908",2023,74,Africa,112622,126.26
+Guinea,guinea,"13,607,249",2023,75,Africa,245857,55.35
+Rwanda,rwanda,"13,400,541",2023,76,Africa,26338,508.79
+Burundi,burundi,"13,162,952",2023,77,Africa,27830,472.98
+Somalia,somalia,"12,693,796",2023,78,Africa,637657,19.91
+Bolivia,bolivia,"12,186,079",2023,79,South America,1098581,11.09
+South Sudan,south-sudan,"12,118,379",2023,80,Africa,644329,18.81
+Tunisia,tunisia,"11,976,182",2023,81,Africa,163610,73.2
+Belgium,belgium,"11,913,633",2023,82,Europe,30528,390.25
+Haiti,haiti,"11,470,261",2023,83,Central America and the Caribbean,27750,413.34
+Jordan,jordan,"11,086,716",2023,84,Middle East,89342,124.09
+Cuba,cuba,"10,985,974",2023,85,Central America and the Caribbean,110860,99.1
+Dominican Republic,dominican-republic,"10,790,744",2023,86,Central America and the Caribbean,48670,221.71
+Czechia,czechia,"10,706,242",2023,87,Europe,78867,135.75
+Sweden,sweden,"10,536,338",2023,88,Europe,450295,23.4
+Greece,greece,"10,497,595",2023,89,Europe,131957,79.55
+Azerbaijan,azerbaijan,"10,420,515",2023,90,Middle East,86600,120.33
+Portugal,portugal,"10,223,150",2023,91,Europe,92090,111.01
+United Arab Emirates,united-arab-emirates,"9,973,449",2023,92,Middle East,83600,119.3
+Papua New Guinea,papua-new-guinea,"9,819,350",2023,93,East and Southeast Asia,462840,21.22
+Hungary,hungary,"9,670,009",2023,94,Europe,93028,103.95
+Honduras,honduras,"9,571,352",2023,95,Central America and the Caribbean,112090,85.39
+Belarus,belarus,"9,383,853",2023,96,Europe,207600,45.2
+Tajikistan,tajikistan,"9,245,937",2023,97,Central Asia,144100,64.16
+Israel,israel,"9,043,387",2023,98,Middle East,21937,412.24
+Austria,austria,"8,940,860",2023,99,Europe,83871,106.6
+Sierra Leone,sierra-leone,"8,908,040",2023,100,Africa,71740,124.17
+Togo,togo,"8,703,961",2023,101,Africa,56785,153.28
+Switzerland,switzerland,"8,563,760",2023,102,Europe,41277,207.47
+Laos,laos,"7,852,377",2023,103,East and Southeast Asia,236800,33.16
+Paraguay,paraguay,"7,439,863",2023,104,South America,406752,18.29
+Hong Kong,hong-kong,"7,288,167",2023,105,East and Southeast Asia,1108,6577.77
+Libya,libya,"7,252,573",2023,106,Africa,1759540,4.12
+Bulgaria,bulgaria,"6,827,736",2023,107,Europe,110879,61.58
+Serbia,serbia,"6,693,375",2023,108,Europe,77474,86.4
+El Salvador,el-salvador,"6,602,370",2023,109,Central America and the Caribbean,21041,313.79
+Nicaragua,nicaragua,"6,359,689",2023,110,Central America and the Caribbean,130370,48.78
+Eritrea,eritrea,"6,274,796",2023,111,Africa,117600,53.36
+Kyrgyzstan,kyrgyzstan,"6,122,781",2023,112,Central Asia,199951,30.62
+Singapore,singapore,"5,975,383",2023,113,East and Southeast Asia,719,8310.69
+Denmark,denmark,"5,946,984",2023,114,Europe,43094,138
+Turkmenistan,turkmenistan,"5,690,818",2023,115,Central Asia,488100,11.66
+"Congo, Republic of the",congo-republic-of-the,"5,677,493",2023,116,Africa,342000,16.6
+Finland,finland,"5,614,571",2023,117,Europe,338145,16.6
+Norway,norway,"5,597,924",2023,118,Europe,323802,17.29
+Central African Republic,central-african-republic,"5,552,228",2023,119,Africa,622984,8.91
+Liberia,liberia,"5,506,280",2023,120,Africa,111369,49.44
+Slovakia,slovakia,"5,425,319",2023,121,Europe,49035,110.64
+Lebanon,lebanon,"5,331,203",2023,122,Middle East,10400,512.62
+Ireland,ireland,"5,323,991",2023,123,Europe,70273,75.76
+Costa Rica,costa-rica,"5,256,612",2023,124,Central America and the Caribbean,51100,102.87
+New Zealand,new-zealand,"5,109,702",2023,125,Australia and Oceania,268838,19.01
+Georgia,georgia,"4,936,390",2023,126,Middle East,69700,70.82
+Panama,panama,"4,404,108",2023,127,Central America and the Caribbean,75420,58.39
+Mauritania,mauritania,"4,244,878",2023,128,Africa,1030700,4.12
+Croatia,croatia,"4,169,239",2023,129,Europe,56594,73.67
+Oman,oman,"3,833,465",2023,130,Middle East,309500,12.39
+Bosnia and Herzegovina,bosnia-and-herzegovina,"3,807,764",2023,131,Europe,51197,74.37
+Uruguay,uruguay,"3,416,264",2023,132,South America,176215,19.39
+Mongolia,mongolia,"3,255,468",2023,133,East and Southeast Asia,1564116,2.08
+Moldova,moldova,"3,250,532",2023,134,Europe,33851,96.02
+West Bank,west-bank,"3,176,549",2023,135,Middle East,5860,542.07
+Kuwait,kuwait,"3,103,580",2023,136,Middle East,17818,174.18
+Albania,albania,"3,101,621",2023,137,Europe,28748,107.89
+Puerto Rico,puerto-rico,"3,057,311",2023,138,Central America and the Caribbean,9104,335.82
+Armenia,armenia,"2,989,091",2023,139,Middle East,29743,100.5
+Jamaica,jamaica,"2,820,982",2023,140,Central America and the Caribbean,10991,256.66
+Namibia,namibia,"2,777,232",2023,141,Africa,824292,3.37
+Lithuania,lithuania,"2,655,755",2023,142,Europe,65300,40.67
+Qatar,qatar,"2,532,104",2023,143,Middle East,11586,218.55
+"Gambia, The",gambia-the,"2,468,569",2023,144,Africa,11300,218.46
+Botswana,botswana,"2,417,596",2023,145,Africa,581730,4.16
+Gabon,gabon,"2,397,368",2023,146,Africa,267667,8.96
+Lesotho,lesotho,"2,210,646",2023,147,Africa,30355,72.83
+North Macedonia,north-macedonia,"2,133,410",2023,148,Europe,25713,82.97
+Slovenia,slovenia,"2,099,790",2023,149,Europe,20273,103.58
+Gaza Strip,gaza-strip,"2,098,389",2023,150,Middle East,360,5828.86
+Guinea-Bissau,guinea-bissau,"2,078,820",2023,151,Africa,36125,57.55
+Kosovo,kosovo,"1,964,327",2023,152,Europe,10887,180.43
+Latvia,latvia,"1,821,750",2023,153,Europe,64589,28.21
+Equatorial Guinea,equatorial-guinea,"1,737,695",2023,154,Africa,28051,61.95
+Bahrain,bahrain,"1,553,886",2023,155,Middle East,760,2044.59
+Timor-Leste,timor-leste,"1,476,042",2023,156,East and Southeast Asia,14874,99.24
+Trinidad and Tobago,trinidad-and-tobago,"1,407,460",2023,157,Central America and the Caribbean,5128,274.47
+Mauritius,mauritius,"1,309,448",2023,158,Africa,2040,641.89
+Cyprus,cyprus,"1,308,120",2023,159,Europe,9251,141.4
+Estonia,estonia,"1,202,762",2023,160,Europe,45228,26.59
+Eswatini,eswatini,"1,130,043",2023,161,Africa,17364,65.08
+Djibouti,djibouti,"976,143",2023,162,Africa,23200,42.08
+Fiji,fiji,"947,760",2023,163,Australia and Oceania,18274,51.86
+Comoros,comoros,"888,378",2023,164,Africa,2235,397.48
+Bhutan,bhutan,"876,181",2023,165,South Asia,38394,22.82
+Guyana,guyana,"791,739",2023,166,South America,214969,3.68
+Solomon Islands,solomon-islands,"714,766",2023,167,Australia and Oceania,28896,24.74
+Luxembourg,luxembourg,"660,924",2023,168,Europe,2586,255.58
+Macau,macau,"639,971",2023,169,East and Southeast Asia,28,22856.11
+Suriname,suriname,"639,759",2023,170,South America,163820,3.91
+Cabo Verde,cabo-verde,"603,901",2023,171,Africa,4033,149.74
+Montenegro,montenegro,"602,445",2023,172,Europe,13812,43.62
+Brunei,brunei,"484,991",2023,173,East and Southeast Asia,5765,84.13
+Malta,malta,"467,138",2023,174,Europe,316,1478.28
+Belize,belize,"419,137",2023,175,Central America and the Caribbean,22966,18.25
+Maldives,maldives,"389,568",2023,176,South Asia,298,1307.28
+Iceland,iceland,"360,872",2023,177,Europe,103000,3.5
+"Bahamas, The",bahamas-the,"358,508",2023,178,Central America and the Caribbean,13880,25.83
+Vanuatu,vanuatu,"313,046",2023,179,Australia and Oceania,12189,25.68
+Barbados,barbados,"303,431",2023,180,Central America and the Caribbean,430,705.65
+French Polynesia,french-polynesia,"301,488",2023,181,Australia and Oceania,4167,72.35
+New Caledonia,new-caledonia,"300,682",2023,182,Australia and Oceania,18575,16.19
+Sao Tome and Principe,sao-tome-and-principe,"220,372",2023,183,Africa,964,228.6
+Samoa,samoa,"207,501",2023,184,Australia and Oceania,2831,73.3
+Guam,guam,"169,330",2023,185,Australia and Oceania,544,311.27
+Saint Lucia,saint-lucia,"167,591",2023,186,Central America and the Caribbean,616,272.06
+Curacao,curacao,"152,849",2023,187,Central America and the Caribbean,444,344.25
+Aruba,aruba,"123,702",2023,188,Central America and the Caribbean,180,687.23
+Kiribati,kiribati,"115,372",2023,189,Australia and Oceania,811,142.26
+Grenada,grenada,"114,299",2023,190,Central America and the Caribbean,344,332.26
+Tonga,tonga,"105,221",2023,191,Australia and Oceania,747,140.86
+Virgin Islands,virgin-islands,"104,917",2023,192,Central America and the Caribbean,1910,54.93
+Jersey,jersey,"102,785",2023,193,Europe,116,886.08
+Antigua and Barbuda,antigua-and-barbuda,"101,489",2023,194,Central America and the Caribbean,443,229.09
+Saint Vincent and the Grenadines,saint-vincent-and-the-grenadines,"100,804",2023,195,Central America and the Caribbean,389,259.14
+"Micronesia, Federated States of",micronesia-federated-states-of,"100,319",2023,196,Australia and Oceania,702,142.9
+Seychelles,seychelles,"97,617",2023,197,Africa,455,214.54
+Isle of Man,isle-of-man,"91,840",2023,198,Europe,572,160.56
+Andorra,andorra,"85,468",2023,199,Europe,468,182.62
+Marshall Islands,marshall-islands,"80,966",2023,200,Australia and Oceania,181,447.33
+Dominica,dominica,"74,656",2023,201,Central America and the Caribbean,751,99.41
+Bermuda,bermuda,"72,576",2023,202,North America,54,1344
+Guernsey,guernsey,"67,642",2023,203,Europe,78,867.21
+Cayman Islands,cayman-islands,"65,483",2023,204,Central America and the Caribbean,264,248.04
+Turks and Caicos Islands,turks-and-caicos-islands,"59,367",2023,205,Central America and the Caribbean,948,62.62
+Greenland,greenland,"57,777",2023,206,North America,2166086,0.03
+Saint Kitts and Nevis,saint-kitts-and-nevis,"54,817",2023,207,Central America and the Caribbean,261,210.03
+Faroe Islands,faroe-islands,"52,600",2023,208,Europe,1393,37.76
+Northern Mariana Islands,northern-mariana-islands,"51,295",2023,209,Australia and Oceania,464,110.55
+Sint Maarten,sint-maarten,"45,677",2023,210,Central America and the Caribbean,34,1343.44
+American Samoa,american-samoa,"44,620",2023,211,Australia and Oceania,224,199.2
+Liechtenstein,liechtenstein,"39,993",2023,212,Europe,160,249.96
+British Virgin Islands,british-virgin-islands,"39,369",2023,213,Central America and the Caribbean,151,260.72
+San Marino,san-marino,"34,892",2023,214,Europe,61,572
+Saint Martin,saint-martin,"32,897",2023,215,Central America and the Caribbean,50,657.94
+Monaco,monaco,"31,597",2023,216,Europe,2,15798.5
+Gibraltar,gibraltar,"29,629",2023,217,Europe,7,4232.71
+Palau,palau,"21,779",2023,218,Australia and Oceania,459,47.45
+Anguilla,anguilla,"19,079",2023,219,Central America and the Caribbean,91,209.66
+Wallis and Futuna,wallis-and-futuna,"15,929",2023,220,Australia and Oceania,142,112.18
+Tuvalu,tuvalu,"11,639",2023,221,Australia and Oceania,26,447.65
+Nauru,nauru,"9,852",2023,222,Australia and Oceania,21,469.14
+Cook Islands,cook-islands,"7,939",2023,223,Australia and Oceania,236,33.64
+"Saint Helena, Ascension, and Tristan da Cunha",saint-helena-ascension-and-tristan-da-cunha,"7,935",2023,224,Africa,394,20.14
+Saint Barthelemy,saint-barthelemy,"7,093",2023,225,Central America and the Caribbean,25,283.72
+Montserrat,montserrat,"5,440",2023,226,Central America and the Caribbean,102,53.33
+Saint Pierre and Miquelon,saint-pierre-and-miquelon,"5,195",2023,227,North America,242,21.47
+Falkland Islands (Islas Malvinas),falkland-islands-islas-malvinas,"3,662",2021,228,South America,12173,0.3
+Svalbard,svalbard,"2,926",21-Jan,229,Europe,62045,0.05
+Christmas Island,christmas-island,"2,205",2016,230,Australia and Oceania,135,16.33
+Niue,niue,"2,000",22-Jul,231,Australia and Oceania,260,7.69
+Norfolk Island,norfolk-island,"1,748",2016,232,Australia and Oceania,36,48.56
+Tokelau,tokelau,"1,647",2019,233,Australia and Oceania,12,137.25
+Paracel Islands,paracel-islands,"1,440",14-Jul,234,East and Southeast Asia,8,180
+Holy See (Vatican City),holy-see-vatican-city,"1,000",2022,235,Europe,0.44,2272.727273
+Cocos (Keeling) Islands,cocos-keeling-islands,596,14-Jul,236,Australia and Oceania,14,42.57
+Pitcairn Islands,pitcairn-islands,50,2021,237,Australia and Oceania,47,1.06

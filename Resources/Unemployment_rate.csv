@@ -1,220 +1,220 @@
-name,slug,%,date_of_information,ranking,region
-"Cocos (Keeling) Islands","cocos-keeling-islands","0.1","2011",1,"Australia and Oceania"
-"Qatar","qatar","0.13","2023",2,"Middle East"
-"Cambodia","cambodia","0.24","2023",3,"East and Southeast Asia"
-"Niger","niger","0.55","2023",4,"Africa"
-"Thailand","thailand","0.91","2023",5,"East and Southeast Asia"
-"Burundi","burundi","0.93","2023",6,"Africa"
-"Falkland Islands (Islas Malvinas)","falkland-islands-islas-malvinas","1","2016",7,"South America"
-"Gibraltar","gibraltar","1","2016",8,"Europe"
-"Chad","chad","1.08","2023",9,"Africa"
-"Cuba","cuba","1.16","2023",10,"Central America and the Caribbean"
-"Bahrain","bahrain","1.16","2023",11,"Middle East"
-"Laos","laos","1.18","2023",12,"East and Southeast Asia"
-"Benin","benin","1.45","2023",13,"Africa"
-"Oman","oman","1.46","2023",14,"Middle East"
-"Timor-Leste","timor-leste","1.52","2023",15,"East and Southeast Asia"
-"Solomon Islands","solomon-islands","1.55","2023",16,"Australia and Oceania"
-"Vietnam","vietnam","1.6","2023",17,"East and Southeast Asia"
-"Moldova","moldova","1.62","2023",18,"Europe"
-"Palau","palau","1.7","2015",19,"Australia and Oceania"
-"Isle of Man","isle-of-man","2","April 2011",20,"Europe"
-"Tokelau","tokelau","2","2015",21,"Australia and Oceania"
-"Monaco","monaco","2","2012",22,"Europe"
-"Togo","togo","2.05","2023",23,"Africa"
-"Kuwait","kuwait","2.08","2023",24,"Middle East"
-"Faroe Islands","faroe-islands","2.2","2017",25,"Europe"
-"Philippines","philippines","2.23","2023",26,"East and Southeast Asia"
-"Macau","macau","2.25","2023",27,"East and Southeast Asia"
-"Tonga","tonga","2.3","2023",28,"Australia and Oceania"
-"Liechtenstein","liechtenstein","2.4","2015",29,"Europe"
-"Cote d'Ivoire","cote-divoire","2.4","2023",30,"Africa"
-"Japan","japan","2.58","2023",31,"East and Southeast Asia"
-"Czechia","czechia","2.59","2023",32,"Europe"
-"Tanzania","tanzania","2.61","2023",33,"Africa"
-"Korea, South","korea-south","2.64","2023",34,"East and Southeast Asia"
-"Papua New Guinea","papua-new-guinea","2.65","2023",35,"East and Southeast Asia"
-"Guatemala","guatemala","2.71","2023",36,"Central America and the Caribbean"
-"United Arab Emirates","united-arab-emirates","2.71","2023",37,"Middle East"
-"El Salvador","el-salvador","2.76","2023",38,"Central America and the Caribbean"
-"Mexico","mexico","2.81","2023",39,"North America"
-"Uganda","uganda","2.83","2023",40,"Africa"
-"Burma","burma","2.84","2023",41,"East and Southeast Asia"
-"British Virgin Islands","british-virgin-islands","2.9","2015",42,"Central America and the Caribbean"
-"Poland","poland","2.91","2023",43,"Europe"
-"Senegal","senegal","2.93","2023",44,"Africa"
-"Liberia","liberia","2.94","2023",45,"Africa"
-"Seychelles","seychelles","3","2017",46,"Africa"
-"Korea, North","korea-north","3","2023",47,"East and Southeast Asia"
-"Mali","mali","3.01","2023",48,"Africa"
-"Germany","germany","3.05","2023",49,"Europe"
-"Madagascar","madagascar","3.06","2023",50,"Africa"
-"Nigeria","nigeria","3.07","2023",51,"Africa"
-"Bolivia","bolivia","3.08","2023",52,"South America"
-"Ghana","ghana","3.08","2023",53,"Africa"
-"Malta","malta","3.13","2023",54,"Europe"
-"Sierra Leone","sierra-leone","3.17","2023",55,"Africa"
-"Guinea-Bissau","guinea-bissau","3.18","2023",56,"Africa"
-"Russia","russia","3.33","2023",57,"Central Asia"
-"Ecuador","ecuador","3.37","2023",58,"South America"
-"Israel","israel","3.39","2023",59,"Middle East"
-"Indonesia","indonesia","3.42","2023",60,"East and Southeast Asia"
-"Singapore","singapore","3.47","2023",61,"East and Southeast Asia"
-"Ethiopia","ethiopia","3.5","2023",62,"Africa"
-"Mozambique","mozambique","3.54","2023",63,"Africa"
-"Iceland","iceland","3.56","2023",64,"Europe"
-"Netherlands","netherlands","3.56","2023",65,"Europe"
-"Belarus","belarus","3.57","2023",66,"Europe"
-"Norway","norway","3.58","2023",67,"Europe"
-"United States","united-states","3.63","2023",68,"North America"
-"Slovenia","slovenia","3.63","2023",69,"Europe"
-"Cameroon","cameroon","3.65","2023",70,"Africa"
-"Australia","australia","3.67","2023",71,"Australia and Oceania"
-"Andorra","andorra","3.7","2016",72,"Europe"
-"Taiwan","taiwan","3.73","2019",73,"East and Southeast Asia"
-"New Zealand","new-zealand","3.74","2023",74,"Australia and Oceania"
-"Malaysia","malaysia","3.86","2023",75,"East and Southeast Asia"
-"Hong Kong","hong-kong","3.93","2023",76,"East and Southeast Asia"
-"Cayman Islands","cayman-islands","4","2008",77,"Central America and the Caribbean"
-"Kyrgyzstan","kyrgyzstan","4.04","2023",78,"Central Asia"
-"Switzerland","switzerland","4.05","2023",79,"Europe"
-"United Kingdom","united-kingdom","4.06","2023",80,"Europe"
-"Turkmenistan","turkmenistan","4.12","2023",81,"Central Asia"
-"Hungary","hungary","4.13","2023",82,"Europe"
-"Maldives","maldives","4.13","2023",83,"South Asia"
-"India","india","4.17","2023",84,"South Asia"
-"Trinidad and Tobago","trinidad-and-tobago","4.21","2023",85,"Central America and the Caribbean"
-"Bulgaria","bulgaria","4.3","2023",86,"Europe"
-"Fiji","fiji","4.33","2023",87,"Australia and Oceania"
-"Ireland","ireland","4.34","2023",88,"Europe"
-"Jamaica","jamaica","4.42","2023",89,"Central America and the Caribbean"
-"Uzbekistan","uzbekistan","4.53","2023",90,"Central Asia"
-"Congo, Democratic Republic of the","congo-democratic-republic-of-the","4.54","2023",91,"Africa"
-"China","china","4.67","2023",92,"East and Southeast Asia"
-"Nicaragua","nicaragua","4.8","2023",93,"Central America and the Caribbean"
-"Peru","peru","4.82","2023",94,"South America"
-"Kazakhstan","kazakhstan","4.85","2023",95,"Central Asia"
-"Saudi Arabia","saudi-arabia","4.88","2023",96,"Middle East"
-"Malawi","malawi","5.04","2023",97,"Africa"
-"Bangladesh","bangladesh","5.06","2023",98,"South Asia"
-"Vanuatu","vanuatu","5.1","2023",99,"Australia and Oceania"
-"Denmark","denmark","5.14","2023",100,"Europe"
-"Luxembourg","luxembourg","5.19","2023",101,"Europe"
-"Austria","austria","5.24","2023",102,"Europe"
-"Brunei","brunei","5.27","2023",103,"East and Southeast Asia"
-"Burkina Faso","burkina-faso","5.29","2023",104,"Africa"
-"Guinea","guinea","5.3","2023",105,"Africa"
-"Canada","canada","5.37","2023",106,"North America"
-"Guam","guam","5.42","2023",107,"Australia and Oceania"
-"Pakistan","pakistan","5.5","2023",108,"South Asia"
-"Belgium","belgium","5.51","2023",109,"Europe"
-"Venezuela","venezuela","5.53","2023",110,"South America"
-"Dominican Republic","dominican-republic","5.56","2023",111,"Central America and the Caribbean"
-"Montserrat","montserrat","5.6","2017",112,"Central America and the Caribbean"
-"Romania","romania","5.6","2023",113,"Europe"
-"Azerbaijan","azerbaijan","5.64","2023",114,"Middle East"
-"Bhutan","bhutan","5.65","2023",115,"South Asia"
-"Kenya","kenya","5.68","2023",116,"Africa"
-"Paraguay","paraguay","5.78","2023",117,"South America"
-"Comoros","comoros","5.8","2023",118,"Africa"
-"Slovakia","slovakia","5.84","2023",119,"Europe"
-"Eritrea","eritrea","5.87","2023",120,"Africa"
-"Zambia","zambia","5.91","2023",121,"Africa"
-"Puerto Rico","puerto-rico","5.96","2023",122,"Central America and the Caribbean"
-"Cyprus","cyprus","5.96","2023",123,"Europe"
-"Jersey","jersey","5.98","2023",124,"Europe"
-"Guernsey","guernsey","5.98","2023",125,"Europe"
-"Croatia","croatia","6.06","2023",126,"Europe"
-"Honduras","honduras","6.06","2023",127,"Central America and the Caribbean"
-"Mauritius","mauritius","6.06","2023",128,"Africa"
-"Mongolia","mongolia","6.13","2023",129,"East and Southeast Asia"
-"Argentina","argentina","6.18","2023",130,"South America"
-"Central African Republic","central-african-republic","6.29","2023",131,"Africa"
-"Estonia","estonia","6.35","2023",132,"Europe"
-"Sri Lanka","sri-lanka","6.36","2023",133,"South Asia"
-"Gambia, The","gambia-the","6.48","2023",134,"Africa"
-"Portugal","portugal","6.49","2023",135,"Europe"
-"Latvia","latvia","6.53","2023",136,"Europe"
-"Panama","panama","6.7","2023",137,"Central America and the Caribbean"
-"Lithuania","lithuania","6.96","2023",138,"Europe"
-"Tajikistan","tajikistan","6.98","2023",139,"Central Asia"
-"Bermuda","bermuda","7","2017",140,"North America"
-"Finland","finland","7.16","2023",141,"Europe"
-"Egypt","egypt","7.31","2023",142,"Africa"
-"France","france","7.32","2023",143,"Europe"
-"Sweden","sweden","7.59","2023",144,"Europe"
-"Italy","italy","7.62","2023",145,"Europe"
-"Aruba","aruba","7.7","2016",146,"Central America and the Caribbean"
-"Suriname","suriname","7.7","2023",147,"South America"
-"Brazil","brazil","7.95","2023",148,"South America"
-"Barbados","barbados","7.95","2023",149,"Central America and the Caribbean"
-"San Marino","san-marino","8.1","2017",150,"Europe"
-"Belize","belize","8.26","2023",151,"Central America and the Caribbean"
-"Costa Rica","costa-rica","8.3","2023",152,"Central America and the Caribbean"
-"Uruguay","uruguay","8.35","2023",153,"South America"
-"Armenia","armenia","8.59","2023",154,"Middle East"
-"Equatorial Guinea","equatorial-guinea","8.67","2023",155,"Africa"
-"Serbia","serbia","8.68","2023",156,"Europe"
-"Saint Pierre and Miquelon","saint-pierre-and-miquelon","8.7","2015",157,"North America"
-"Zimbabwe","zimbabwe","8.76","2023",158,"Africa"
-"Wallis and Futuna","wallis-and-futuna","8.8","2013",159,"Australia and Oceania"
-"Chile","chile","9.04","2023",160,"South America"
-"Iran","iran","9.1","2023",161,"Middle East"
-"Greenland","greenland","9.1","2015",162,"North America"
-"Morocco","morocco","9.11","2023",163,"Africa"
-"Bahamas, The","bahamas-the","9.2","2023",164,"Central America and the Caribbean"
-"Turkey (Turkiye)","turkey-turkiye","9.41","2023",165,"Middle East"
-"Colombia","colombia","9.57","2023",166,"South America"
-"Samoa","samoa","9.75","2023",167,"Australia and Oceania"
-"Ukraine","ukraine","9.83","2021",168,"Europe"
-"Bosnia and Herzegovina","bosnia-and-herzegovina","10.42","2023",169,"Europe"
-"Mauritania","mauritania","10.51","2023",170,"Africa"
-"Nepal","nepal","10.69","2023",171,"South Asia"
-"Antigua and Barbuda","antigua-and-barbuda","11","2014",172,"Central America and the Caribbean"
-"Greece","greece","11","2023",173,"Europe"
-"Saint Lucia","saint-lucia","11.09","2023",174,"Central America and the Caribbean"
-"Northern Mariana Islands","northern-mariana-islands","11.2","2010",175,"Australia and Oceania"
-"New Caledonia","new-caledonia","11.22","2023",176,"Australia and Oceania"
-"Sudan","sudan","11.45","2023",177,"Africa"
-"Lebanon","lebanon","11.57","2023",178,"Middle East"
-"Albania","albania","11.58","2023",179,"Europe"
-"Georgia","georgia","11.62","2023",180,"Middle East"
-"French Polynesia","french-polynesia","11.72","2023",181,"Australia and Oceania"
-"Algeria","algeria","11.81","2023",182,"Africa"
-"Cabo Verde","cabo-verde","11.99","2023",183,"Africa"
-"Sint Maarten","sint-maarten","12","2012",184,"Central America and the Caribbean"
-"Virgin Islands","virgin-islands","12.09","2023",185,"Central America and the Caribbean"
-"Spain","spain","12.14","2023",186,"Europe"
-"South Sudan","south-sudan","12.27","2023",187,"Africa"
-"Guyana","guyana","12.43","2023",188,"South America"
-"Curacao","curacao","13","2013",189,"Central America and the Caribbean"
-"North Macedonia","north-macedonia","13.08","2023",190,"Europe"
-"Syria","syria","13.54","2023",191,"Middle East"
-"Sao Tome and Principe","sao-tome-and-principe","14.21","2023",192,"Africa"
-"Afghanistan","afghanistan","14.39","2023",193,"South Asia"
-"Angola","angola","14.62","2023",194,"Africa"
-"Haiti","haiti","14.62","2023",195,"Central America and the Caribbean"
-"Rwanda","rwanda","14.93","2023",196,"Africa"
-"Tunisia","tunisia","15.11","2023",197,"Africa"
-"Montenegro","montenegro","15.25","2023",198,"Europe"
-"Iraq","iraq","15.53","2023",199,"Middle East"
-"Micronesia, Federated States of","micronesia-federated-states-of","16.2","2010",200,"Australia and Oceania"
-"Lesotho","lesotho","16.46","2023",201,"Africa"
-"Yemen","yemen","17.22","2023",202,"Middle East"
-"Jordan","jordan","17.94","2023",203,"Middle East"
-"Saint Vincent and the Grenadines","saint-vincent-and-the-grenadines","18.67","2023",204,"Central America and the Caribbean"
-"Libya","libya","18.74","2023",205,"Africa"
-"Somalia","somalia","19.03","2023",206,"Africa"
-"Namibia","namibia","19.42","2023",207,"Africa"
-"Congo, Republic of the","congo-republic-of-the","20.05","2023",208,"Africa"
-"Gabon","gabon","20.36","2023",209,"Africa"
-"Nauru","nauru","23","2011",210,"Australia and Oceania"
-"Botswana","botswana","23.38","2023",211,"Africa"
-"Grenada","grenada","24","2017",212,"Central America and the Caribbean"
-"West Bank","west-bank","24.42","2022",213,"Middle East"
-"Gaza Strip","gaza-strip","24.42","2022",214,"Middle East"
-"Djibouti","djibouti","26.26","2023",215,"Africa"
-"South Africa","south-africa","27.99","2023",216,"Africa"
-"Kosovo","kosovo","30.5","2017",217,"Europe"
-"Kiribati","kiribati","30.6","2010",218,"Australia and Oceania"
-"Eswatini","eswatini","37.64","2023",219,"Africa"
+name,slug,perc,date_of_information,ranking,region
+Cocos (Keeling) Islands,cocos-keeling-islands,0.1,2011,1,Australia and Oceania
+Qatar,qatar,0.13,2023,2,Middle East
+Cambodia,cambodia,0.24,2023,3,East and Southeast Asia
+Niger,niger,0.55,2023,4,Africa
+Thailand,thailand,0.91,2023,5,East and Southeast Asia
+Burundi,burundi,0.93,2023,6,Africa
+Falkland Islands (Islas Malvinas),falkland-islands-islas-malvinas,1,2016,7,South America
+Gibraltar,gibraltar,1,2016,8,Europe
+Chad,chad,1.08,2023,9,Africa
+Cuba,cuba,1.16,2023,10,Central America and the Caribbean
+Bahrain,bahrain,1.16,2023,11,Middle East
+Laos,laos,1.18,2023,12,East and Southeast Asia
+Benin,benin,1.45,2023,13,Africa
+Oman,oman,1.46,2023,14,Middle East
+Timor-Leste,timor-leste,1.52,2023,15,East and Southeast Asia
+Solomon Islands,solomon-islands,1.55,2023,16,Australia and Oceania
+Vietnam,vietnam,1.6,2023,17,East and Southeast Asia
+Moldova,moldova,1.62,2023,18,Europe
+Palau,palau,1.7,2015,19,Australia and Oceania
+Isle of Man,isle-of-man,2,Apr-11,20,Europe
+Tokelau,tokelau,2,2015,21,Australia and Oceania
+Monaco,monaco,2,2012,22,Europe
+Togo,togo,2.05,2023,23,Africa
+Kuwait,kuwait,2.08,2023,24,Middle East
+Faroe Islands,faroe-islands,2.2,2017,25,Europe
+Philippines,philippines,2.23,2023,26,East and Southeast Asia
+Macau,macau,2.25,2023,27,East and Southeast Asia
+Tonga,tonga,2.3,2023,28,Australia and Oceania
+Liechtenstein,liechtenstein,2.4,2015,29,Europe
+Cote d'Ivoire,cote-divoire,2.4,2023,30,Africa
+Japan,japan,2.58,2023,31,East and Southeast Asia
+Czechia,czechia,2.59,2023,32,Europe
+Tanzania,tanzania,2.61,2023,33,Africa
+"Korea, South",korea-south,2.64,2023,34,East and Southeast Asia
+Papua New Guinea,papua-new-guinea,2.65,2023,35,East and Southeast Asia
+Guatemala,guatemala,2.71,2023,36,Central America and the Caribbean
+United Arab Emirates,united-arab-emirates,2.71,2023,37,Middle East
+El Salvador,el-salvador,2.76,2023,38,Central America and the Caribbean
+Mexico,mexico,2.81,2023,39,North America
+Uganda,uganda,2.83,2023,40,Africa
+Burma,burma,2.84,2023,41,East and Southeast Asia
+British Virgin Islands,british-virgin-islands,2.9,2015,42,Central America and the Caribbean
+Poland,poland,2.91,2023,43,Europe
+Senegal,senegal,2.93,2023,44,Africa
+Liberia,liberia,2.94,2023,45,Africa
+Seychelles,seychelles,3,2017,46,Africa
+"Korea, North",korea-north,3,2023,47,East and Southeast Asia
+Mali,mali,3.01,2023,48,Africa
+Germany,germany,3.05,2023,49,Europe
+Madagascar,madagascar,3.06,2023,50,Africa
+Nigeria,nigeria,3.07,2023,51,Africa
+Bolivia,bolivia,3.08,2023,52,South America
+Ghana,ghana,3.08,2023,53,Africa
+Malta,malta,3.13,2023,54,Europe
+Sierra Leone,sierra-leone,3.17,2023,55,Africa
+Guinea-Bissau,guinea-bissau,3.18,2023,56,Africa
+Russia,russia,3.33,2023,57,Central Asia
+Ecuador,ecuador,3.37,2023,58,South America
+Israel,israel,3.39,2023,59,Middle East
+Indonesia,indonesia,3.42,2023,60,East and Southeast Asia
+Singapore,singapore,3.47,2023,61,East and Southeast Asia
+Ethiopia,ethiopia,3.5,2023,62,Africa
+Mozambique,mozambique,3.54,2023,63,Africa
+Iceland,iceland,3.56,2023,64,Europe
+Netherlands,netherlands,3.56,2023,65,Europe
+Belarus,belarus,3.57,2023,66,Europe
+Norway,norway,3.58,2023,67,Europe
+United States,united-states,3.63,2023,68,North America
+Slovenia,slovenia,3.63,2023,69,Europe
+Cameroon,cameroon,3.65,2023,70,Africa
+Australia,australia,3.67,2023,71,Australia and Oceania
+Andorra,andorra,3.7,2016,72,Europe
+Taiwan,taiwan,3.73,2019,73,East and Southeast Asia
+New Zealand,new-zealand,3.74,2023,74,Australia and Oceania
+Malaysia,malaysia,3.86,2023,75,East and Southeast Asia
+Hong Kong,hong-kong,3.93,2023,76,East and Southeast Asia
+Cayman Islands,cayman-islands,4,2008,77,Central America and the Caribbean
+Kyrgyzstan,kyrgyzstan,4.04,2023,78,Central Asia
+Switzerland,switzerland,4.05,2023,79,Europe
+United Kingdom,united-kingdom,4.06,2023,80,Europe
+Turkmenistan,turkmenistan,4.12,2023,81,Central Asia
+Hungary,hungary,4.13,2023,82,Europe
+Maldives,maldives,4.13,2023,83,South Asia
+India,india,4.17,2023,84,South Asia
+Trinidad and Tobago,trinidad-and-tobago,4.21,2023,85,Central America and the Caribbean
+Bulgaria,bulgaria,4.3,2023,86,Europe
+Fiji,fiji,4.33,2023,87,Australia and Oceania
+Ireland,ireland,4.34,2023,88,Europe
+Jamaica,jamaica,4.42,2023,89,Central America and the Caribbean
+Uzbekistan,uzbekistan,4.53,2023,90,Central Asia
+"Congo, Democratic Republic of the",congo-democratic-republic-of-the,4.54,2023,91,Africa
+China,china,4.67,2023,92,East and Southeast Asia
+Nicaragua,nicaragua,4.8,2023,93,Central America and the Caribbean
+Peru,peru,4.82,2023,94,South America
+Kazakhstan,kazakhstan,4.85,2023,95,Central Asia
+Saudi Arabia,saudi-arabia,4.88,2023,96,Middle East
+Malawi,malawi,5.04,2023,97,Africa
+Bangladesh,bangladesh,5.06,2023,98,South Asia
+Vanuatu,vanuatu,5.1,2023,99,Australia and Oceania
+Denmark,denmark,5.14,2023,100,Europe
+Luxembourg,luxembourg,5.19,2023,101,Europe
+Austria,austria,5.24,2023,102,Europe
+Brunei,brunei,5.27,2023,103,East and Southeast Asia
+Burkina Faso,burkina-faso,5.29,2023,104,Africa
+Guinea,guinea,5.3,2023,105,Africa
+Canada,canada,5.37,2023,106,North America
+Guam,guam,5.42,2023,107,Australia and Oceania
+Pakistan,pakistan,5.5,2023,108,South Asia
+Belgium,belgium,5.51,2023,109,Europe
+Venezuela,venezuela,5.53,2023,110,South America
+Dominican Republic,dominican-republic,5.56,2023,111,Central America and the Caribbean
+Montserrat,montserrat,5.6,2017,112,Central America and the Caribbean
+Romania,romania,5.6,2023,113,Europe
+Azerbaijan,azerbaijan,5.64,2023,114,Middle East
+Bhutan,bhutan,5.65,2023,115,South Asia
+Kenya,kenya,5.68,2023,116,Africa
+Paraguay,paraguay,5.78,2023,117,South America
+Comoros,comoros,5.8,2023,118,Africa
+Slovakia,slovakia,5.84,2023,119,Europe
+Eritrea,eritrea,5.87,2023,120,Africa
+Zambia,zambia,5.91,2023,121,Africa
+Puerto Rico,puerto-rico,5.96,2023,122,Central America and the Caribbean
+Cyprus,cyprus,5.96,2023,123,Europe
+Jersey,jersey,5.98,2023,124,Europe
+Guernsey,guernsey,5.98,2023,125,Europe
+Croatia,croatia,6.06,2023,126,Europe
+Honduras,honduras,6.06,2023,127,Central America and the Caribbean
+Mauritius,mauritius,6.06,2023,128,Africa
+Mongolia,mongolia,6.13,2023,129,East and Southeast Asia
+Argentina,argentina,6.18,2023,130,South America
+Central African Republic,central-african-republic,6.29,2023,131,Africa
+Estonia,estonia,6.35,2023,132,Europe
+Sri Lanka,sri-lanka,6.36,2023,133,South Asia
+"Gambia, The",gambia-the,6.48,2023,134,Africa
+Portugal,portugal,6.49,2023,135,Europe
+Latvia,latvia,6.53,2023,136,Europe
+Panama,panama,6.7,2023,137,Central America and the Caribbean
+Lithuania,lithuania,6.96,2023,138,Europe
+Tajikistan,tajikistan,6.98,2023,139,Central Asia
+Bermuda,bermuda,7,2017,140,North America
+Finland,finland,7.16,2023,141,Europe
+Egypt,egypt,7.31,2023,142,Africa
+France,france,7.32,2023,143,Europe
+Sweden,sweden,7.59,2023,144,Europe
+Italy,italy,7.62,2023,145,Europe
+Aruba,aruba,7.7,2016,146,Central America and the Caribbean
+Suriname,suriname,7.7,2023,147,South America
+Brazil,brazil,7.95,2023,148,South America
+Barbados,barbados,7.95,2023,149,Central America and the Caribbean
+San Marino,san-marino,8.1,2017,150,Europe
+Belize,belize,8.26,2023,151,Central America and the Caribbean
+Costa Rica,costa-rica,8.3,2023,152,Central America and the Caribbean
+Uruguay,uruguay,8.35,2023,153,South America
+Armenia,armenia,8.59,2023,154,Middle East
+Equatorial Guinea,equatorial-guinea,8.67,2023,155,Africa
+Serbia,serbia,8.68,2023,156,Europe
+Saint Pierre and Miquelon,saint-pierre-and-miquelon,8.7,2015,157,North America
+Zimbabwe,zimbabwe,8.76,2023,158,Africa
+Wallis and Futuna,wallis-and-futuna,8.8,2013,159,Australia and Oceania
+Chile,chile,9.04,2023,160,South America
+Iran,iran,9.1,2023,161,Middle East
+Greenland,greenland,9.1,2015,162,North America
+Morocco,morocco,9.11,2023,163,Africa
+"Bahamas, The",bahamas-the,9.2,2023,164,Central America and the Caribbean
+Turkey (Turkiye),turkey-turkiye,9.41,2023,165,Middle East
+Colombia,colombia,9.57,2023,166,South America
+Samoa,samoa,9.75,2023,167,Australia and Oceania
+Ukraine,ukraine,9.83,2021,168,Europe
+Bosnia and Herzegovina,bosnia-and-herzegovina,10.42,2023,169,Europe
+Mauritania,mauritania,10.51,2023,170,Africa
+Nepal,nepal,10.69,2023,171,South Asia
+Antigua and Barbuda,antigua-and-barbuda,11,2014,172,Central America and the Caribbean
+Greece,greece,11,2023,173,Europe
+Saint Lucia,saint-lucia,11.09,2023,174,Central America and the Caribbean
+Northern Mariana Islands,northern-mariana-islands,11.2,2010,175,Australia and Oceania
+New Caledonia,new-caledonia,11.22,2023,176,Australia and Oceania
+Sudan,sudan,11.45,2023,177,Africa
+Lebanon,lebanon,11.57,2023,178,Middle East
+Albania,albania,11.58,2023,179,Europe
+Georgia,georgia,11.62,2023,180,Middle East
+French Polynesia,french-polynesia,11.72,2023,181,Australia and Oceania
+Algeria,algeria,11.81,2023,182,Africa
+Cabo Verde,cabo-verde,11.99,2023,183,Africa
+Sint Maarten,sint-maarten,12,2012,184,Central America and the Caribbean
+Virgin Islands,virgin-islands,12.09,2023,185,Central America and the Caribbean
+Spain,spain,12.14,2023,186,Europe
+South Sudan,south-sudan,12.27,2023,187,Africa
+Guyana,guyana,12.43,2023,188,South America
+Curacao,curacao,13,2013,189,Central America and the Caribbean
+North Macedonia,north-macedonia,13.08,2023,190,Europe
+Syria,syria,13.54,2023,191,Middle East
+Sao Tome and Principe,sao-tome-and-principe,14.21,2023,192,Africa
+Afghanistan,afghanistan,14.39,2023,193,South Asia
+Angola,angola,14.62,2023,194,Africa
+Haiti,haiti,14.62,2023,195,Central America and the Caribbean
+Rwanda,rwanda,14.93,2023,196,Africa
+Tunisia,tunisia,15.11,2023,197,Africa
+Montenegro,montenegro,15.25,2023,198,Europe
+Iraq,iraq,15.53,2023,199,Middle East
+"Micronesia, Federated States of",micronesia-federated-states-of,16.2,2010,200,Australia and Oceania
+Lesotho,lesotho,16.46,2023,201,Africa
+Yemen,yemen,17.22,2023,202,Middle East
+Jordan,jordan,17.94,2023,203,Middle East
+Saint Vincent and the Grenadines,saint-vincent-and-the-grenadines,18.67,2023,204,Central America and the Caribbean
+Libya,libya,18.74,2023,205,Africa
+Somalia,somalia,19.03,2023,206,Africa
+Namibia,namibia,19.42,2023,207,Africa
+"Congo, Republic of the",congo-republic-of-the,20.05,2023,208,Africa
+Gabon,gabon,20.36,2023,209,Africa
+Nauru,nauru,23,2011,210,Australia and Oceania
+Botswana,botswana,23.38,2023,211,Africa
+Grenada,grenada,24,2017,212,Central America and the Caribbean
+West Bank,west-bank,24.42,2022,213,Middle East
+Gaza Strip,gaza-strip,24.42,2022,214,Middle East
+Djibouti,djibouti,26.26,2023,215,Africa
+South Africa,south-africa,27.99,2023,216,Africa
+Kosovo,kosovo,30.5,2017,217,Europe
+Kiribati,kiribati,30.6,2010,218,Australia and Oceania
+Eswatini,eswatini,37.64,2023,219,Africa
