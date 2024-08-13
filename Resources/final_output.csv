@@ -1,4 +1,4 @@
-country,region,ladder_score,logged_GPD_per_capita,social_support,healthy_life_expectancy,freedom_life_choices,generosity,perceptions_corruption,population_density,unemployment_rate,median_age,gini_coefficient,avg_temperature,lt_alcohol_per_capita
+country,region,ladder_score,logged_GDP_per_capita,social_support,healthy_life_expectancy,freedom_life_choices,generosity,perceptions_corruption,population_density,unemployment_rate,median_age,gini_coefficient,avg_temperature,lt_alcohol_per_capita
 Finland,Europe,7.804,10.792,0.969,71.15,0.961,-0.019,0.182,16.6,7.16,43.2,27.7,3.24,8.23
 Denmark,Europe,7.586,10.962,0.954,71.25,0.934,0.134,0.196,138.0,5.14,42.2,27.7,9.77,9.16
 Iceland,Europe,7.53,10.896,0.983,72.05,0.936,0.211,0.668,3.5,3.56,37.8,26.1,2.11,7.72
