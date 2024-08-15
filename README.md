@@ -61,10 +61,10 @@ https://docs.google.com/presentation/d/1OLYXT3qZrvakpfUAAf72BuSIRfQNrr3w8HYSeFhk
 
 ### Random Forest model
 - Define X and Y ("happiness" as independent variable)
-- Define 0 and 1 in the binary classification (mid point  + 1 = 1 "Happy", else = 0 "Unhappy")
+- Define 0 and 1 in the binary classification (midpoint + 1 = 1 "Happy", else = 0 "Unhappy")
 - Drop any columns that are object type
 - Split the data into train and test train (test size: 20%, random state of 98 countries (80% of the total))
-- Fitting the Random Forest Model using 50 estimators with 16 maximum leafts and 42 random states
+- Fitting the Random Forest Model using 50 estimators with 16 maximum leaves and 42 random states
 - Making predictions with testing data
 - Evaluating the data
 - Print confusion matrix, classification report, and level of importance for each X variable
