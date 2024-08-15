@@ -1,5 +1,5 @@
 # Project-4-Happiness Index
-# The Worldwide Happiness Report
+# The World Happiness Report
 
 ## Project Overview
 The goal of this project is to determine whether living conditions can influence the level of happiness. By leveraging both individual and group contributions, we will thoroughly analyze various datasets that impact a country's happiness score. Our aim is to identify and understand the key factors that make a country happy or unhappy. The objective is to develop a comprehensive understanding of which countries are the happiest and least happy, identify the most significant features contributing to national happiness, and determine the best model for predicting happiness. This analysis will provide deeper insights into assessing a country's happiness score.
@@ -20,7 +20,7 @@ https://docs.google.com/presentation/d/1OLYXT3qZrvakpfUAAf72BuSIRfQNrr3w8HYSeFhk
 - Open and execute the notebook 'cleaning code.ipynb' using Jupyter Notebook
 - Explore the folders to find the series of analysis performed on the data
 - For the Initial Data Analysis section, you can also visit our tableau dashboard (link below)
-- For the Logistic Regression model. After running the file 'Logistic model mid point.ipynb', open your web browser and navigate to http://127.0.0.1:8050/ to access the Dash application.
+- For the Logistic Regression model. After running the file 'Logistic model midpoint.ipynb', open your web browser and navigate to http://127.0.0.1:8050/ to access the Dash application.
 
 ## General steps followed
 - Gathered more datasets and downloaded each file in csv format
@@ -39,7 +39,15 @@ https://docs.google.com/presentation/d/1OLYXT3qZrvakpfUAAf72BuSIRfQNrr3w8HYSeFhk
 - Once these steps were completed, the cleaned data was merged into the main cleaning code file. The relevant columns were then identified, and any missing data with null values was removed to ensure completeness.
 - Finally, the cleaned data was saved as a CSV file and an SQLite file was created to serve as our database connection.
 
-### Detailed steps - Linear Regression 
+### Initial Data Analysis
+- Importing and analysing data
+- Analysis of Happiest and unhappiest countries in 2023 and creating visualizations (bar plots with top and bottom 10 countries; World map showing regions with different happiness score; scatter plot with happiness score and log GDP per capita comparison by countries via regions; plot with all variables for each top 10 countries as well bottom 10 countries).
+- Region Analysis (analysis of how many countries in each region have happiness score greater than 6; Happiness by region shown in box plot based on happiness score; creating Kernel Density Estimate (KDE) plot of Happiness score distribution by region).
+- Correlation Matrix Heatmap for 2023.
+- Relationship between all variables and happiness score shown in 12 scatter plots.
+- Distribution of 2 set variables presented through box plot highlighting outliers in each set.
+
+### Exploratory Linear Regression 
 - The idea behind the linear regression is to explore the correlation between the happiness score and various factors. Since this is an exploratory step, the goal is to determine whether there is a strong variance as well as identify which factors contribute the most to a happy region. At the end of the analysis, we compute the linear model’s key metrics: score, R², MSE, RMSE, and standard deviation.
 - R² explains the variance of the independent variables in the dependent variable. The closer R² is to 1, the better the model fits the data.
 - **Alcohol**: 0.3650
@@ -59,6 +67,16 @@ https://docs.google.com/presentation/d/1OLYXT3qZrvakpfUAAf72BuSIRfQNrr3w8HYSeFhk
 - On the other hand, variables like "Median age" and "Freedom of choice" are moderate predictors, while "Generosity," "Unemployment," and the "Gini coefficient" are weak predictors.
 - In summary, our regression model suggests that "Social support," "Logged GDP," and "Healthy life" are the most significant predictors of happiness, while "Generosity" and "Unemployment" contribute little to the model's predictive power
 
+### Linear Regression with multiple variables
+- Define X and Y ("ladder_score" as independent variable)
+- Split the data into train and test train for the Linear Regression Model
+- Train the linear regression model
+- Evaluate the model
+- Calculate coefficients
+- Make predictions with split test data
+- Run the model mean error and r score
+- Conclusion: A negative coefficient suggests that as the independent variable increases, the dependent variable tend to decrease. The highest dependent variables in the linear regression model are social support, freedom_life_choices and GDP per capita. The mean absolute error is close to 0 (0.4). According to r score (0.82) there is a strong correlation between the independent variable and all dependent variables. However, the model has a higher margin of error, compared to logistic regression model.
+
 ### Random Forest model
 - Define X and Y ("happiness" as independent variable)
 - Define 0 and 1 in the binary classification (midpoint + 1 = 1 "Happy", else = 0 "Unhappy")
@@ -73,7 +91,6 @@ https://docs.google.com/presentation/d/1OLYXT3qZrvakpfUAAf72BuSIRfQNrr3w8HYSeFhk
 - The model can find 62% of all objects of the target class 0 and 89 & of class 1.
 - The overall 84% accuracy shows that RF does not seem to be the most efficient and best predicting model compared to logistic regression.
 
-
 ### Logistic Regression Model
 - After importing the dependencies, the data was pulled from SQLite data base
 - To classify the target variable, a midpoint between the highest and the lowest happiness score was calculated and defined as threshold for happiness.
@@ -87,7 +104,6 @@ https://docs.google.com/presentation/d/1OLYXT3qZrvakpfUAAf72BuSIRfQNrr3w8HYSeFhk
 - Recall. 90% of the happy countries were correctly predicted as happy and 86% of the unhappy countries were correctly predicted as unhappy
 - There was other 2 instances of this model where two different thresholds were used to classify the target variable. The first one used a score of 4 and the second one use the median of the scores. None of them resulted in a higher accuracy, precision and recall than the one where the midpoint was used.
 - A Dash application was developed where the model was deployed. Users can input different values for the features and the application predicts if the target variable is 1 or 0 (happy or unhappy)  
-
 
 ## Sources
 
