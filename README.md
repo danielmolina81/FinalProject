@@ -47,6 +47,19 @@ https://docs.google.com/presentation/d/1OLYXT3qZrvakpfUAAf72BuSIRfQNrr3w8HYSeFhk
 - Relationship between all variables and happiness score shown in 12 scatter plots.
 - Distribution of 2 set variables presented through box plot highlighting outliers in each set.
 
+### Tableau worksheets and dashboards
+- Link: https://public.tableau.com/app/profile/jelena.r2636/viz/CountriesHappiness2023-project/Dashboard1?publish=yes
+- World Happiness Map with a dropdown to choose to show happy countries (happiness score >7) as well as unhappy countries (happiness score <4)
+- Top 10 Happiest countries 2023
+- 10 Unhappiest countries 2023
+- Countries and happiness score with an option to select and search for a country
+- Main variables top 10 countries
+- Europe happiest countries
+- Happiness and population density
+- Happiness score and Log GDP per capita by countries via Regions in 2023
+- Dashboard 1
+- Dashboard  2
+
 ### Exploratory Linear Regression 
 - The idea behind the linear regression is to explore the correlation between the happiness score and various factors. Since this is an exploratory step, the goal is to determine whether there is a strong variance as well as identify which factors contribute the most to a happy region. At the end of the analysis, we compute the linear model’s key metrics: score, R², MSE, RMSE, and standard deviation.
 - R² explains the variance of the independent variables in the dependent variable. The closer R² is to 1, the better the model fits the data.
