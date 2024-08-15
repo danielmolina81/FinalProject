@@ -56,9 +56,9 @@ https://docs.google.com/presentation/d/1OLYXT3qZrvakpfUAAf72BuSIRfQNrr3w8HYSeFhk
 - Main variables top 10 countries
 - Europe happiest countries
 - Happiness and population density
-- Happiness score and Log GDP per capita by countries via Regions in 2023
+- Happiness score and Log GDP per capita by countries via regions in 2023
 - Dashboard 1
-- Dashboard  2
+- Dashboard 2
 
 ### Exploratory Linear Regression 
 - The idea behind the linear regression is to explore the correlation between the happiness score and various factors. Since this is an exploratory step, the goal is to determine whether there is a strong variance as well as identify which factors contribute the most to a happy region. At the end of the analysis, we compute the linear model’s key metrics: score, R², MSE, RMSE, and standard deviation.
