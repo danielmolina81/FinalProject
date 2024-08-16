@@ -135,6 +135,7 @@ https://docs.google.com/presentation/d/1OLYXT3qZrvakpfUAAf72BuSIRfQNrr3w8HYSeFhk
 - https://stock.adobe.com/images/multicultural-students-jumping-happiness-success-happy-young-people-vector-flat-cartoon-university-students-or-college-and-school-friends-jump-up-with-raised-hands-and-happy-smiles-of-celebration/380929173 Aug 07, 2024
 - https://www.redbubble.com/shop/funny+thought+bubble+posters Aug 14, 2024
 - https://github.com/vivek2319/Linear-Regression-Prediction/blob/master/Linear_Regression_Scikit_learn.py
+- https://pixers.ca/posters/don-t-worry-be-happy-42945128 Aug 15, 2024
 
 ## Team Members
 - Laura Roa
